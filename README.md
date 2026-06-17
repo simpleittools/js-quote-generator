@@ -1,0 +1,1 @@
+A quote generator using the fetch API in JavaScript
